@@ -75,7 +75,7 @@ const Header = ({ onSidebarOpen }) => {
                   display: { md: 'inline', xs: 'none' },
                 }}
               >
-                Bob Developer
+                OLD_WIZAARD
               </Typography>
             </IconButton>
           </Link>
@@ -104,7 +104,7 @@ const Header = ({ onSidebarOpen }) => {
           <Box sx={{ display: { lg: 'flex', md: 'none', xs: 'none' } }}>
             <IconButton
               aria-label='YouTube'
-              href='#'
+              href='https://www.youtube.com/channel/UCUSr-0atwfQA9p1XBlQQn_w'
               target='_blank'
               sx={{
                 color: theme.palette.primary.main,
@@ -124,7 +124,7 @@ const Header = ({ onSidebarOpen }) => {
             </IconButton>
             <IconButton
               aria-label='Instagram'
-              href='#'
+              href='https://www.instagram.com/old_wizard_mtb/'
               target='_blank'
               sx={{
                 color: theme.palette.primary.main,
