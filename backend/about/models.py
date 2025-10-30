@@ -12,3 +12,7 @@ class About(models.Model):
 
   def __str__(self):
     return self.title
+
+
+
+#Рахимка хочет пальчик в попу 
